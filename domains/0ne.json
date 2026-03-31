@@ -1,0 +1,12 @@
+{
+    "owner": {
+      "username": "lavzchen",
+      "email": "lavzchen@163.com"
+},
+ "records": {
+    "A": "43.153.153.226",
+    "AAAA": "fe80::5054:ff:fefa:1f53",
+    "CNAME": "lavzchen.github.io"
+}
+    
+}
